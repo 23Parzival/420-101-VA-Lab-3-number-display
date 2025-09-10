@@ -24,3 +24,7 @@
 9. It will show zero because it reached the limit and will reset. 
 
 10. Non-static method, cannot be called from static context.
+
+11. .class expected. You have to remove the int in order for there to not be an error.
+
+12. The difference is that now if you input the limit it will work 
